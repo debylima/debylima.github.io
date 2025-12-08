@@ -1,14 +1,8 @@
 body {
-  margin: 0;
   background: #0f172a;
   font-family: Arial, sans-serif;
   color: #e5e7eb;
-}
-
-.container {
-  max-width: 900px;
-  margin: auto;
-  padding: 40px 20px;
+  margin: 0;
 }
 
 h1 {
@@ -17,26 +11,14 @@ h1 {
 
 h2 {
   color: #94a3b8;
-  margin-top: 0;
 }
 
 h3 {
   color: #38bdf8;
-  border-bottom: 1px solid #334155;
-}
-
-section {
-  margin-top: 30px;
 }
 
 a {
   color: #38bdf8;
-  text-decoration: none;
 }
 
-.footer {
-  margin-top: 50px;
-  text-align: center;
-  color: #94a3b8;
-}
 
